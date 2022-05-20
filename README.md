@@ -2,7 +2,7 @@
 
 ## Study plan overview
 
-* Module 0 - Highschool Math
+* Module 0 - Elementary to Highschool Math
 * Module 1 - College Math I (Calculus)
 * Module 2 - College Math II (Linear Algebra)
 * Module 3 - College Math III (Discrete Math)
@@ -13,11 +13,11 @@
 * Module 8 - Data Mining and Recommenders
 * Module 9 - NLP and Computer Vision
 
-It is recommended to look ahead so long as the general trend is that of finishing earlier modules before later modules.
-
-## Module 0 - Highschool math
+## Module 0 - Elementary to Highschool math
 
 Not everyone was fortunate enough to have a good start with math growing up. The goal of this module is to level the playing field - by the end of module 0 you should feel as though you went to a highschool with world class teachers and finished top of your math class.
+
+If you consider yourself bad at math, or if you "hated math" in school, then the best advice is to start at the lowest level you can. Start at pre-school math if you have to, but find the level of math where you can *easily* follow. Resist skipping ahead and go through the program level by level. Do not advance to the next level until you have mastery of the current level. If the current level is too hard, go back to an earlier level. I've linked some courses here that are probably a good for most, but you can find even more elementary courses on khanacademy if you need.
 
 #### Algebra
 
