@@ -1,4 +1,4 @@
-# Zero to mastery in data science.
+# Zero to Mastery in Data Science.
 
 ## Study plan overview
 
