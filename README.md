@@ -21,31 +21,39 @@ If you consider yourself bad at math, or if you "hated math" in school, then the
 
 #### Algebra
 
-- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/mission/pre-algebra)
-- [ ] [Khan - Algebra I](https://www.khanacademy.org/mission/algebra)
-- [ ] [Khan - Algebra II](https://www.khanacademy.org/mission/algebra2)
+- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra)
+- [ ] [Khan - Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
+- [ ] [Khan - Algebra I](https://www.khanacademy.org/math/algebra)
+- [ ] [Khan - Algebra II](https://www.khanacademy.org/math/algebra2)
+- [ ] [Khan - College Algebra](https://www.khanacademy.org/math/college-algebra)
 
 #### Geometry
 
-- [ ] [Khan - Geometry](https://www.khanacademy.org/mission/geometry)
-- [ ] [Khan - Trigonometry](https://www.khanacademy.org/mission/trigonometry)
+- [ ] [Khan - Highschool Geometry](https://www.khanacademy.org/math/geometry)
+- [ ] [Khan - Trigonometry](https://www.khanacademy.org/math/trigonometry)
 
-#### Pre Calculus
-- [ ] [Khan - Pre-Calculus](https://www.khanacademy.org/mission/precalculus)
+#### Calculus
+- [ ] [Khan - Pre-Calculus](https://www.khanacademy.org/math/precalculus)
+- [ ] [Khan - Calculus 1](https://www.khanacademy.org/math/calculus-1)
+- [ ] [Khan - Calculus 2](https://www.khanacademy.org/math/calculus-2)
+- [ ] [Khan - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+- [ ] [Khan - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
+- [ ] [Khan - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
+- [ ] [Khan - AP College Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
+- [ ] [Khan - AP College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
+- [ ] [Khan - Differential Equations](https://www.khanacademy.org/math/differential-equations)
 
 #### Statistics and Probability
-- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/mission/probability)
+- [ ] [Khan - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
+- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/math/probability)
+- [ ] [Khan - AP College Statistics](https://www.khanacademy.org/math/ap-statistics)
 
 *Supplementary Material*
 - [ ] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
 - [ ] [3B1B - Lockdown Math](https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev)
 
-## Module 1 - College Math I (Calculus)
 
-- [ ] [Khan - Differential Calculus](https://www.khanacademy.org/mission/differential-calculus)
-- [ ] [Khan - Integral Calculus](https://www.khanacademy.org/mission/integral-calculus)
-- [ ] [Khan - AP Calculus AB](https://www.khanacademy.org/mission/ap-calculus-ab)
-- [ ] [Khan - AP Calculus BC](https://www.khanacademy.org/mission/ap-calculus-bc)
+## Module 1 - College Math I (Calculus)
 - [ ] [MIT - Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/index.htm)
 
 *Supplementary Material*
