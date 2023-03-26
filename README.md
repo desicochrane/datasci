@@ -19,34 +19,26 @@ Not everyone was fortunate enough to have a good start with math growing up. The
 
 If you consider yourself bad at math, or if you "hated math" in school, then the best advice is to start at the lowest level you can. Start at pre-school math if you have to, but find the level of math where you can *easily* follow. Resist skipping ahead and go through the program level by level. Do not advance to the next level until you have mastery of the current level. If the current level is too hard, go back to an earlier level. I've linked some courses here that are probably a good for most, but you can find even more elementary courses on khanacademy if you need.
 
-#### Algebra
 
-- [ ] [Khan - Pre-Algebra](https://www.khanacademy.org/math/pre-algebra)
-- [ ] [Khan - Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
-- [ ] [Khan - Algebra I](https://www.khanacademy.org/math/algebra)
-- [ ] [Khan - Algebra II](https://www.khanacademy.org/math/algebra2)
-- [ ] [Khan - College Algebra](https://www.khanacademy.org/math/college-algebra)
-
-#### Geometry
-
-- [ ] [Khan - Highschool Geometry](https://www.khanacademy.org/math/geometry)
-- [ ] [Khan - Trigonometry](https://www.khanacademy.org/math/trigonometry)
-
-#### Calculus
+- [ ] [Khan - Pre algebra](https://www.khanacademy.org/math/pre-algebra) 67%
+- [ ] [Khan - Algebra basics](https://www.khanacademy.org/math/algebra-basics) 88%
+- [ ] [Khan - Algebra I](https://www.khanacademy.org/math/algebra) 74%
+- [ ] [Khan - Highschool Geometry](https://www.khanacademy.org/math/geometry) - 81%
+- [ ] [Khan - Algebra II](https://www.khanacademy.org/math/algebra2) 71%
+- [ ] [Khan - Trigonometry](https://www.khanacademy.org/math/trigonometry) - 79%
+- [ ] [Khan - College Algebra](https://www.khanacademy.org/math/college-algebra) 82%
+- [ ] [Khan - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability) 30%
+- [ ] [Khan - Pre College Statistics](https://www.khanacademy.org/math/get-ready-for-ap-statistics)
+- [ ] [Khan - College Statistics](https://www.khanacademy.org/math/ap-statistics)
 - [ ] [Khan - Pre-Calculus](https://www.khanacademy.org/math/precalculus)
 - [ ] [Khan - Calculus 1](https://www.khanacademy.org/math/calculus-1)
 - [ ] [Khan - Calculus 2](https://www.khanacademy.org/math/calculus-2)
 - [ ] [Khan - Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
-- [ ] [Khan - AP College Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
-- [ ] [Khan - AP College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
-- [ ] [Khan - Differential Equations](https://www.khanacademy.org/math/differential-equations)
-
-#### Statistics and Probability
-- [ ] [Khan - Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
-- [ ] [Khan - Highschool Statistics](https://www.khanacademy.org/math/probability)
-- [ ] [Khan - AP College Statistics](https://www.khanacademy.org/math/ap-statistics)
+- [ ] [Khan - Pre College Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc)
+- [ ] [Khan - College Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
+- [ ] [Khan - College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
 
 *Supplementary Material*
 - [ ] 📚 [The Joy of X](https://www.amazon.com/Joy-Guided-Tour-Math-Infinity/dp/0544105850)
