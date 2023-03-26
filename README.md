@@ -163,15 +163,13 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 ## Module 4 - College Math IV (Probability and Statistics)
 
 ### 4.1 Probability
-- [ ] [Edx/Harvard - Probability from the Ground Up](prob01)
-- [ ] [EdX/Harvard STAT110 - Introduction to Probability](prob02)
-- [ ] [EdX/MIT 6.431 - Introduction to Probability - The Science of Uncertainty](prob03)
-- [ ] [Edx/MIT Probability - The Science of Uncertainty and Data](prob04)
+- [ ] [Edx/Harvard - Probability from the Ground Up][prob01]
+- [ ] [EdX/Harvard STAT110 - Introduction to Probability][prob02]
+- [ ] [EdX/MIT 6.431 - Introduction to Probability - The Science of Uncertainty][prob03]
 
 [prob01]: https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2
 [prob02]: https://www.edx.org/course/introduction-to-probability
-[prob03]: https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
-[prob04]: https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
+[prob03]: https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
 
 
 ### 4.2 Statistics
