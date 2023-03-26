@@ -4,7 +4,7 @@
 You should be able to implement, on your own, automatic differentiation, your own neural network library, build your own linear algebra backend 
 for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, RNN, and Transformer architectures. You should understand hardware acceleration.
 
-- [ ] [(2022) Carnegie Mellon - Deep Learning Systems](dnn01)
+- [ ] [(2022/03) Carnegie Mellon - Deep Learning Systems](dnn01)
 - [ ] [(2022/03) Andrey Karpathy - Neural Networks: Zero to Hero](dnn02)
 
 
