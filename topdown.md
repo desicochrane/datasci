@@ -11,6 +11,9 @@ for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, 
 [dnn01]: https://www.youtube.com/watch?v=qbJqOFMyIwg
 [dnn02]: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
+#### Mastery Topics
+* You should have an intuition for **softmax**
+
 #### Social
 * [Twitter - Andrey Karpathy](https://twitter.com/karpathy)
 * [Twitter - Zico Kolter](https://twitter.com/zicokolter)
@@ -18,7 +21,7 @@ for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, 
 
 
 #### Resources
-* https://dlsyscourse.org/
+* [Lex Fridman interview w/ Andrey Karpathy](https://www.youtube.com/watch?v=cdiD-9MMpb0)
 
 #### Prerequisites
 * Linear Algebra
