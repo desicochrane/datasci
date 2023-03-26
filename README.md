@@ -37,7 +37,7 @@ If you consider yourself bad at math, or if you "hated math" in school, then the
 - [ ] [Khan - Differential Calculus](https://www.khanacademy.org/math/differential-calculus)
 - [ ] [Khan - Integral Calculus](https://www.khanacademy.org/math/integral-calculus)
 - [ ] [Khan - Pre College Calculus](https://www.khanacademy.org/math/get-ready-for-ap-calc)
-- [ ] [Khan - College Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab)
+- [ ] [Khan - College Calculus AB](https://www.khanacademy.org/math/ap-calculus-ab) 4%
 - [ ] [Khan - College Calculus BC](https://www.khanacademy.org/math/ap-calculus-bc)
 
 *Supplementary Material*
