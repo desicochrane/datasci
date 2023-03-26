@@ -143,12 +143,6 @@ Combinatorics is a vital skill in reasoning about the size of finite sets.
 - [ ] [Sarada Herke - Graph Theory Course](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 - [ ] http://courses.csail.mit.edu/6.889/fall11/lectures/
 
-### 3.5 Series, Sequences, Recurrences
-todo
-
-### 3.6 Discrete Probability
-todo
-
 ### Discrete Math Supplementary Material
 
 * [MIT - Mathematics for Computer Science (2017)](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
@@ -168,23 +162,22 @@ computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
 
 ## Module 4 - College Math IV (Probability and Statistics)
 
-- [ ] [Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
-- [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
-- [ ] https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/unit-i/
-- [ ] [Coursera/Duke Uni - Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro)
-- [ ] [Coursera/Duke Uni - Inferential Statistics](https://www.coursera.org/learn/inferential-statistics-intro)
-- [ ] [Coursera/Duke Uni - Linear Regression and Modeling](https://www.coursera.org/learn/linear-regression-model)
-- [ ] [Coursera/Duke Uni - Bayesian Statistics](https://www.coursera.org/learn/bayesian)
-- [ ] [Coursera/Duke Uni - Statistics with R Capstone](https://www.coursera.org/learn/statistics-project)
-- [ ] [Edx/Uni Texas - Foundations of Data Analysis - Part 1: Statistics Using R](https://www.edx.org/course/foundations-data-analysis-part-1-utaustinx-ut-7-11x-0)
-- [ ] [EdX/Uni Texas - Foundations of Data Analysis - Part 2: Inferential Statistics](https://www.edx.org/course/foundations-data-analysis-part-2-utaustinx-ut-7-21x-0)
-- [ ] [EdX/MIT - Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2)
-- [ ] [EdX/MIT - Introduction to Probability Part II - Inferences and Processes](https://www.edx.org/course/introduction-to-probability-part-2-inference-processes)
-- [ ] [MIT Probablistic Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
-- [ ] [MIT Intro to Probability (2018)](https://ocw.mit.edu/resources/res-6-012-introduction-to-probability-spring-2018/)
-* https://www.coursera.org/specializations/statistics
-* https://www.coursera.org/specializations/r
+### 4.1 Probability
+- [ ] [Edx/Harvard - Probability from the Ground Up](prob01)
+- [ ] [EdX/Harvard STAT110 - Introduction to Probability](prob02)
+- [ ] [EdX/MIT 6.431 - Introduction to Probability - The Science of Uncertainty](prob03)
+- [ ] [Edx/MIT Probability - The Science of Uncertainty and Data](prob04)
 
+[prob01]: https://www.edx.org/course/fat-chance-probability-from-the-ground-up-2
+[prob02]: https://www.edx.org/course/introduction-to-probability
+[prob03]: https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2
+[prob04]: https://www.edx.org/course/probability-the-science-of-uncertainty-and-data
+
+
+### 4.2 Statistics
+- [ ] [Khan - AP Statistics](https://www.khanacademy.org/math/ap-statistics)
+- [ ] [MIT Probablistic Systems](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/index.htm)
+- [ ] [Discrete Stochastic Processes](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-262-discrete-stochastic-processes-spring-2011/)
 
 ## Module 5 - Computation and Algorithms
 
