@@ -11,6 +11,12 @@ for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, 
 [dnn01]: https://www.youtube.com/watch?v=qbJqOFMyIwg
 [dnn02]: https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
+#### Social
+* [Twitter - Andrey Karpathy](https://twitter.com/karpathy)
+* [Twitter - Zico Kolter](https://twitter.com/zicokolter)
+* [Twitter - Tianqi Chen](https://twitter.com/tqchenml)
+
+
 #### Resources
 * https://dlsyscourse.org/
 
