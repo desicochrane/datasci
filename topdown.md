@@ -33,6 +33,7 @@ for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, 
 - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 ## Differential Calculus
+- [ ] https://www.youtube.com/watch?v=WUvTyaaNkzM&ab_channel=3Blue1Brown
 - [ ] https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science
 - [ ] https://www.coursera.org/specializations/differential-calculus-data-modeling
 - [ ] https://www.coursera.org/specializations/precalculus-data-modelling
