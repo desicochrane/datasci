@@ -33,8 +33,15 @@ for CPU and GPU and should be comfortable implementing your own MLPs, ConvNets, 
 - [ ] [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
 ## Differential Calculus
-- [ ] [3Blue1Brown Essence of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&ab_channel=3Blue1Brown)
-- [ ] https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science
-- [ ] https://www.coursera.org/specializations/differential-calculus-data-modeling
+- [ ] [Youtube - 3Blue1Brown - Essence of Calculus][clc00]
+- [ ] [KhanAcademy - College Calculus AB][clc01] 4%
+- [ ] [Coursera - DeepLearningAI - Calculus for Machine Learning and Data Science][clc02]
 - [ ] https://www.coursera.org/specializations/precalculus-data-modelling
+- [ ] https://www.coursera.org/specializations/differential-calculus-data-modeling
 - [ ] https://www.edx.org/xseries/mitx-18.01x-single-variable-calculus
+
+[clc00]: https://www.youtube.com/watch?v=WUvTyaaNkzM&ab_channel=3Blue1Brown
+[clc01]: https://www.khanacademy.org/math/ap-calculus-ab
+[clc02]: https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science
+
+
